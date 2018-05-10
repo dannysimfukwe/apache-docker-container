@@ -24,4 +24,10 @@ open your browser to see the running container http://localhost:3000
 
 ```
 
+## Stopping the container
+
+``
+docker stop <dockerID>
+``
+
 > Enjoy
