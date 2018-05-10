@@ -2,6 +2,8 @@
 
 ## Usage
 
+> Install Docker if you haven't already 
+
 ```
 git clone https://github.com/dannysimfukwe/apache-docker-container.git
 
