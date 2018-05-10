@@ -18,7 +18,7 @@ docker-compose  build
 ## Running the container
 
 ```
-docker run -d -p 3000:80 dockerphpapache_web *//dockerphpapache_web is the name of the container you built*
+docker run -d -p 3000:80 dockerphpapache_web *dockerphpapache_web is the name of the container you built*
 
 open your browser to see the running container http://localhost:3000
 
